@@ -7,7 +7,7 @@
 
 ## Repository Locations
 
-### [git.damask.mpie.de](https://git.damask.mpie.de)
+### [git.damask-multiphysics.org](https://git.damask-multiphysics.org)
 
 All code development is centralized in the principal DAMASK code repository hosted at [git.damask-multiphysics.org](https://git.damask-multiphysics.org).
 Access to this GitLab instance requires registration and is granted to anyone with an interest in actively supporting the development of DAMASK.
